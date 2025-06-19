@@ -31,7 +31,7 @@ features/
 1. **Clone the repository:**
    ```sh
    git clone <repo-url>
-   cd converted_automation
+   cd Automation_ex12
    ```
 2. **Install Cucumber:**
    ```sh
